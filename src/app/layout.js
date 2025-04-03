@@ -12,8 +12,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Cat-Challenge",
+  title: "Cat Challenge",
   description: "Desafio dos gato",
+  openGraph: {
+    title: "Desafio dos Gatos",
+  },
 };
 
 export default function RootLayout({ children }) {
