@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@theme {
+  --color-defensoria: #992e31;
+  --color-estrela: #2a71b7;
+}
+
 body {
   background-color: white;
 }
