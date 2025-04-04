@@ -28,7 +28,7 @@ const GatosCarrossel = () => {
               <img
                 src={cat.url}
                 alt={`Gato ${index + 1}`}
-                className="rounded-lg shadow-xl w-full max-h-[300px] object-cover"
+                className="rounded-lg shadow-xl w-full size-fit object-cover"
               />
             </CarouselItem>
           ))}
