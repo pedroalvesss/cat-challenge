@@ -6,14 +6,6 @@
 
 This project is a simple challenge to test knowledge of how to do requests in a [cat API](https://thecatapi.com/) and show the images in a carousel. It used React, Next and ShadCN.
 
-## 💻 Installation
-
-Use the package manager [npm](https://www.npmjs.com/) to create the necessary environment.
-
-```bash
-npx create-next-app@latest
-```
-
 ## ❗ Getting Started
 
 Here is how to run your project locally:
@@ -32,8 +24,8 @@ git clone https://github.com/pedroalvesss/cat-challenge
 ### Starting
 
 ```
-cd your-project-name
-npm run start
+npm install
+npm run dev
 ```
 
 ## License
